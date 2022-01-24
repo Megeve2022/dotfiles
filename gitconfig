@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = vlieberg@outlook.com
+	name = Vanessa Lieberg
